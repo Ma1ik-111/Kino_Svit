@@ -5,7 +5,7 @@
   "homepage": "https://ma1ik-111.github.io/Kino_Svit/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
-    "@testing-library/react": "^12.1.4",
+    "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.9.0",
     "bootstrap": "^5.3.2",
