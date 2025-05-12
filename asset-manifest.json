@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kino_Svit/static/css/main.f4a7c27b.css",
-    "main.js": "/Kino_Svit/static/js/main.1188ce79.js",
+    "main.js": "/Kino_Svit/static/js/main.333c8bc8.js",
     "static/js/415.5ba3c092.chunk.js": "/Kino_Svit/static/js/415.5ba3c092.chunk.js",
     "static/js/778.c0aa0012.chunk.js": "/Kino_Svit/static/js/778.c0aa0012.chunk.js",
     "static/js/172.751e1aa0.chunk.js": "/Kino_Svit/static/js/172.751e1aa0.chunk.js",
@@ -13,7 +13,7 @@
     "index.html": "/Kino_Svit/index.html",
     "static/media/left-arrow.svg": "/Kino_Svit/static/media/left-arrow.bf66f31397c642d27653b6bda0b4fa05.svg",
     "main.f4a7c27b.css.map": "/Kino_Svit/static/css/main.f4a7c27b.css.map",
-    "main.1188ce79.js.map": "/Kino_Svit/static/js/main.1188ce79.js.map",
+    "main.333c8bc8.js.map": "/Kino_Svit/static/js/main.333c8bc8.js.map",
     "415.5ba3c092.chunk.js.map": "/Kino_Svit/static/js/415.5ba3c092.chunk.js.map",
     "778.c0aa0012.chunk.js.map": "/Kino_Svit/static/js/778.c0aa0012.chunk.js.map",
     "172.751e1aa0.chunk.js.map": "/Kino_Svit/static/js/172.751e1aa0.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.f4a7c27b.css",
-    "static/js/main.1188ce79.js"
+    "static/js/main.333c8bc8.js"
   ]
 }
