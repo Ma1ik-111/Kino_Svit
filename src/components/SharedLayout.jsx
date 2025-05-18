@@ -10,7 +10,7 @@ function SharedLayout() {
       <header className="mb-5">
         <Navbar bg="dark" data-bs-theme="dark">
           <Container>
-            <Navbar.Brand>Cinema</Navbar.Brand>
+            <Navbar.Brand>Kino Svit</Navbar.Brand>
             <Nav className="me-auto" variant="underline">
               <NavLink to="/" className="nav-link">
                 Home
