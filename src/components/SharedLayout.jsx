@@ -35,7 +35,7 @@ function SharedLayout() {
             <Col>
               <p className="text-center fst-italic">
                 {' ' }
-                <NavLink to="https://github.com/krok-code">Instagram</NavLink>
+                <NavLink to="https://www.instagram.com/kinosvit2025?igsh=MXJrcjl0cGcxc2RmeQ==">Instagram</NavLink>
                 {' '}
                 <NavLink to="https://t.me/Kino_SvitUa_bot">Telegram</NavLink>
               </p>
