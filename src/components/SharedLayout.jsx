@@ -34,8 +34,10 @@ function SharedLayout() {
           <Row className="p-4">
             <Col>
               <p className="text-center fst-italic">
-                created by{' '}
-                <NavLink to="https://github.com/krok-code">krok-code</NavLink>
+                {' ' }
+                <NavLink to="https://github.com/krok-code">Instagram</NavLink>
+                {' '}
+                <NavLink to="https://t.me/Kino_SvitUa_bot">Telegram</NavLink>
               </p>
             </Col>
           </Row>
