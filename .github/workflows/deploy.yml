@@ -17,6 +17,9 @@ jobs:
       - name: Fix ESLint permission
         run: chmod +x ./node_modules/.bin/eslint
 
+      - name: Fix react-scripts permission
+        run: chmod +x ./node_modules/.bin/react-scripts
+
       - name: Lint JavaScript
         run: npm run lint:js
 
